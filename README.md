@@ -1,15 +1,10 @@
 <div align="center">
 
-```
- ██████╗ ██╗   ██╗██╗██╗     ██╗  ██╗███████╗██████╗ ███╗   ███╗███████╗
-██╔════╝ ██║   ██║██║██║     ██║  ██║██╔════╝██╔══██╗████╗ ████║██╔════╝
-██║  ███╗██║   ██║██║██║     ███████║█████╗  ██████╔╝██╔████╔██║█████╗  
-██║   ██║██║   ██║██║██║     ██╔══██║██╔══╝  ██╔══██╗██║╚██╔╝██║██╔══╝  
-╚██████╔╝╚██████╔╝██║███████╗██║  ██║███████╗██║  ██║██║ ╚═╝ ██║███████╗
- ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝
-```
+# Guilherme Oliveira
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=534AB7&center=true&vCenter=true&width=500&lines=Dev+%7C+Infra+%7C+Automation;Building+things+with+Go+%26+Node.js;Always+learning%2C+always+shipping." alt="Typing SVG" />
+![divider](https://img.shields.io/badge/──────────────────────────────────────────────-0e0e10?style=flat-square)
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Dev+%7C+Infra+%7C+Automation;Building+things+with+Go+%26+Node.js;Always+learning%2C+always+shipping." alt="Typing SVG" />
 
 </div>
 
