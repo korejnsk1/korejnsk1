@@ -68,54 +68,14 @@ func main() {
 
 <div align="center">
 
-<a href="https://github.com/korejnsk1/TaskMaster">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=korejnsk1&repo=TaskMaster&bg_color=0e0e10&title_color=AFA9EC&text_color=7F77DD&icon_color=534AB7&border_color=2a2a30" />
-</a>
-<a href="https://github.com/korejnsk1/Code-Explainer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=korejnsk1&repo=Code-Explainer&bg_color=0e0e10&title_color=AFA9EC&text_color=7F77DD&icon_color=534AB7&border_color=2a2a30" />
-</a>
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**TaskMaster**](https://github.com/korejnsk1/TaskMaster) | App desktop nativo para gestão de tarefas — Kanban, Calendário, Tags e armazenamento local | ![Go](https://img.shields.io/badge/Go-0e0e10?style=flat-square&logo=go&logoColor=7F77DD) ![React](https://img.shields.io/badge/React-0e0e10?style=flat-square&logo=react&logoColor=7F77DD) ![SQLite](https://img.shields.io/badge/SQLite-0e0e10?style=flat-square&logo=sqlite&logoColor=7F77DD) |
+| [**Code-Explainer**](https://github.com/korejnsk1/Code-Explainer) | Web app com IA do Google (Gemini) para analisar e explicar código em português | ![Go](https://img.shields.io/badge/Go-0e0e10?style=flat-square&logo=go&logoColor=7F77DD) ![React](https://img.shields.io/badge/React-0e0e10?style=flat-square&logo=react&logoColor=7F77DD) |
+| [**helpdesk-sejusc**](https://github.com/korejnsk1/helpdesk-sejusc) | Sistema interno de chamados de TI com SLA, dashboard e relatórios em PDF | ![Node.js](https://img.shields.io/badge/Node.js-0e0e10?style=flat-square&logo=nodedotjs&logoColor=7F77DD) ![React](https://img.shields.io/badge/React-0e0e10?style=flat-square&logo=react&logoColor=7F77DD) ![MySQL](https://img.shields.io/badge/MySQL-0e0e10?style=flat-square&logo=mysql&logoColor=7F77DD) |
+| [**Go-File-Manager**](https://github.com/korejnsk1/Go-File-Manager) | Gerenciador de arquivos via CLI — estudo de manipulação do sistema de arquivos em Go | ![Go](https://img.shields.io/badge/Go-0e0e10?style=flat-square&logo=go&logoColor=7F77DD) |
 
 </div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/korejnsk1/helpdesk-sejusc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=korejnsk1&repo=helpdesk-sejusc&bg_color=0e0e10&title_color=AFA9EC&text_color=7F77DD&icon_color=534AB7&border_color=2a2a30" />
-</a>
-<a href="https://github.com/korejnsk1/Go-File-Manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=korejnsk1&repo=Go-File-Manager&bg_color=0e0e10&title_color=AFA9EC&text_color=7F77DD&icon_color=534AB7&border_color=2a2a30" />
-</a>
-
-</div>
-
-<br/>
-
-### TaskMaster
-> App desktop nativo de alta performance para gestão de tarefas — construído do zero com Go (Wails), React e SQLite.
-- Quadro Kanban interativo com Drag & Drop
-- Calendário mensal consolidado
-- Sistema de etiquetas, prioridades e checklists
-- Armazenamento 100% local — sem nuvem, sem custo
-
-### Code Explainer
-> Aplicação web que usa a IA do Google (Gemini) para analisar e explicar trechos de código em português.
-- Backend em Go com integração à API Gemini
-- Frontend em React com resposta em tempo real
-- Foco em acessibilidade para quem está aprendendo a programar
-
-### Helpdesk Interno — SEJUSC
-> Sistema interno desenvolvido do zero para automatizar e centralizar o atendimento de suporte técnico da Secretaria de Estado de Justiça (AM).
-- Stack: Node.js · React · MySQL
-- Abertura, acompanhamento e atribuição de chamados
-- Dashboard com histórico e controle de SLA
-- Geração de relatórios em PDF
-
-### Go File Manager
-> Gerenciador de arquivos em Go — projeto de estudo focado em manipulação do sistema de arquivos via CLI.
-- Stack: Go
-- Operações de leitura, escrita e navegação de diretórios
 
 ---
 
