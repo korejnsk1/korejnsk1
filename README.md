@@ -71,6 +71,19 @@ func main() {
 <a href="https://github.com/korejnsk1/TaskMaster">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=korejnsk1&repo=TaskMaster&bg_color=0e0e10&title_color=AFA9EC&text_color=7F77DD&icon_color=534AB7&border_color=2a2a30" />
 </a>
+<a href="https://github.com/korejnsk1/Code-Explainer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=korejnsk1&repo=Code-Explainer&bg_color=0e0e10&title_color=AFA9EC&text_color=7F77DD&icon_color=534AB7&border_color=2a2a30" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/korejnsk1/helpdesk-sejusc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=korejnsk1&repo=helpdesk-sejusc&bg_color=0e0e10&title_color=AFA9EC&text_color=7F77DD&icon_color=534AB7&border_color=2a2a30" />
+</a>
 <a href="https://github.com/korejnsk1/Go-File-Manager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=korejnsk1&repo=Go-File-Manager&bg_color=0e0e10&title_color=AFA9EC&text_color=7F77DD&icon_color=534AB7&border_color=2a2a30" />
 </a>
@@ -92,12 +105,17 @@ func main() {
 - Frontend em React com resposta em tempo real
 - Foco em acessibilidade para quem está aprendendo a programar
 
-### Helpdesk Interno — SEJUSC *(privado)*
+### Helpdesk Interno — SEJUSC
 > Sistema interno desenvolvido do zero para automatizar e centralizar o atendimento de suporte técnico da Secretaria de Estado de Justiça (AM).
 - Stack: Node.js · React · MySQL
 - Abertura, acompanhamento e atribuição de chamados
 - Dashboard com histórico e controle de SLA
 - Geração de relatórios em PDF
+
+### Go File Manager
+> Gerenciador de arquivos em Go — projeto de estudo focado em manipulação do sistema de arquivos via CLI.
+- Stack: Go
+- Operações de leitura, escrita e navegação de diretórios
 
 ---
 
