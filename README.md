@@ -38,27 +38,27 @@ func main() {
 <div align="center">
 
 ### Back-end & Infra
-![Go](https://img.shields.io/badge/Go-0e0e10?style=for-the-badge&logo=go&logoColor=7F77DD)
-![Node.js](https://img.shields.io/badge/Node.js-0e0e10?style=for-the-badge&logo=nodedotjs&logoColor=7F77DD)
-![TypeScript](https://img.shields.io/badge/TypeScript-0e0e10?style=for-the-badge&logo=typescript&logoColor=7F77DD)
-![Docker](https://img.shields.io/badge/Docker-0e0e10?style=for-the-badge&logo=docker&logoColor=7F77DD)
+![Go](https://img.shields.io/badge/Go-161b22?style=for-the-badge&logo=go&logoColor=7F77DD)
+![Node.js](https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=nodedotjs&logoColor=7F77DD)
+![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=7F77DD)
+![Docker](https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=7F77DD)
 
 ### Front-end
-![React](https://img.shields.io/badge/React-0e0e10?style=for-the-badge&logo=react&logoColor=7F77DD)
-![Next.js](https://img.shields.io/badge/Next.js-0e0e10?style=for-the-badge&logo=nextdotjs&logoColor=7F77DD)
-![HTML5](https://img.shields.io/badge/HTML5-0e0e10?style=for-the-badge&logo=html5&logoColor=7F77DD)
-![CSS3](https://img.shields.io/badge/CSS3-0e0e10?style=for-the-badge&logo=css3&logoColor=7F77DD)
+![React](https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=7F77DD)
+![Next.js](https://img.shields.io/badge/Next.js-161b22?style=for-the-badge&logo=nextdotjs&logoColor=7F77DD)
+![HTML5](https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=7F77DD)
+![CSS3](https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=7F77DD)
 
 ### Banco de dados
-![MySQL](https://img.shields.io/badge/MySQL-0e0e10?style=for-the-badge&logo=mysql&logoColor=7F77DD)
-![SQLite](https://img.shields.io/badge/SQLite-0e0e10?style=for-the-badge&logo=sqlite&logoColor=7F77DD)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0e0e10?style=for-the-badge&logo=postgresql&logoColor=7F77DD)
+![MySQL](https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=7F77DD)
+![SQLite](https://img.shields.io/badge/SQLite-161b22?style=for-the-badge&logo=sqlite&logoColor=7F77DD)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=7F77DD)
 
 ### Ferramentas
-![Git](https://img.shields.io/badge/Git-0e0e10?style=for-the-badge&logo=git&logoColor=7F77DD)
-![GitHub](https://img.shields.io/badge/GitHub-0e0e10?style=for-the-badge&logo=github&logoColor=7F77DD)
-![Linux](https://img.shields.io/badge/Linux-0e0e10?style=for-the-badge&logo=linux&logoColor=7F77DD)
-![VS Code](https://img.shields.io/badge/VS_Code-0e0e10?style=for-the-badge&logo=visualstudiocode&logoColor=7F77DD)
+![Git](https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=7F77DD)
+![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=7F77DD)
+![Linux](https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=7F77DD)
+![VS Code](https://img.shields.io/badge/VS_Code-161b22?style=for-the-badge&logo=visualstudiocode&logoColor=7F77DD)
 
 </div>
 
@@ -70,10 +70,10 @@ func main() {
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**TaskMaster**](https://github.com/korejnsk1/TaskMaster) | App desktop nativo para gestão de tarefas — Kanban, Calendário, Tags e armazenamento local | ![Go](https://img.shields.io/badge/Go-0e0e10?style=flat-square&logo=go&logoColor=7F77DD) ![React](https://img.shields.io/badge/React-0e0e10?style=flat-square&logo=react&logoColor=7F77DD) ![SQLite](https://img.shields.io/badge/SQLite-0e0e10?style=flat-square&logo=sqlite&logoColor=7F77DD) |
-| [**Code-Explainer**](https://github.com/korejnsk1/Code-Explainer) | Web app com IA do Google (Gemini) para analisar e explicar código em português | ![Go](https://img.shields.io/badge/Go-0e0e10?style=flat-square&logo=go&logoColor=7F77DD) ![React](https://img.shields.io/badge/React-0e0e10?style=flat-square&logo=react&logoColor=7F77DD) |
-| [**helpdesk-sejusc**](https://github.com/korejnsk1/helpdesk-sejusc) | Sistema interno de chamados de TI com SLA, dashboard e relatórios em PDF | ![Node.js](https://img.shields.io/badge/Node.js-0e0e10?style=flat-square&logo=nodedotjs&logoColor=7F77DD) ![React](https://img.shields.io/badge/React-0e0e10?style=flat-square&logo=react&logoColor=7F77DD) ![MySQL](https://img.shields.io/badge/MySQL-0e0e10?style=flat-square&logo=mysql&logoColor=7F77DD) |
-| [**Go-File-Manager**](https://github.com/korejnsk1/Go-File-Manager) | Gerenciador de arquivos via CLI — estudo de manipulação do sistema de arquivos em Go | ![Go](https://img.shields.io/badge/Go-0e0e10?style=flat-square&logo=go&logoColor=7F77DD) |
+| [**TaskMaster**](https://github.com/korejnsk1/TaskMaster) | App desktop nativo para gestão de tarefas — Kanban, Calendário, Tags e armazenamento local | ![Go](https://img.shields.io/badge/Go-161b22?style=flat-square&logo=go&logoColor=7F77DD) ![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=7F77DD) ![SQLite](https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=7F77DD) |
+| [**Code-Explainer**](https://github.com/korejnsk1/Code-Explainer) | Web app com IA do Google (Gemini) para analisar e explicar código em português | ![Go](https://img.shields.io/badge/Go-161b22?style=flat-square&logo=go&logoColor=7F77DD) ![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=7F77DD) |
+| [**helpdesk-sejusc**](https://github.com/korejnsk1/helpdesk-sejusc) | Sistema interno de chamados de TI com SLA, dashboard e relatórios em PDF | ![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=7F77DD) ![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=7F77DD) ![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=7F77DD) |
+| [**Go-File-Manager**](https://github.com/korejnsk1/Go-File-Manager) | Gerenciador de arquivos via CLI — estudo de manipulação do sistema de arquivos em Go | ![Go](https://img.shields.io/badge/Go-161b22?style=flat-square&logo=go&logoColor=7F77DD) |
 
 </div>
 
@@ -101,8 +101,8 @@ func main() {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e0e10?style=for-the-badge&logo=linkedin&logoColor=7F77DD)](https://linkedin.com/in/oliveiraguilherme03)
-[![GitHub](https://img.shields.io/badge/GitHub-0e0e10?style=for-the-badge&logo=github&logoColor=7F77DD)](https://github.com/korejnsk1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=7F77DD)](https://linkedin.com/in/oliveiraguilherme03)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=7F77DD)](https://github.com/korejnsk1)
 
 </div>
 
